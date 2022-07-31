@@ -5,7 +5,7 @@
 </h2><br>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7bd111132fce009e4605e.jpg" width="300">
+  <img src="https://xmalitha.github.io/Heroku-Deployer/xxx.jpg" width="300">
 </p>
 
  <p align="center">
